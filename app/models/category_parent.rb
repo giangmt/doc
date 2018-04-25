@@ -1,0 +1,2 @@
+class CategoryParent < ApplicationRecord
+end
